@@ -1,1 +1,13 @@
-# Primeira missão do Curso de formação JS Mestre Jedi
+# Eliel Mateus Oliveira
+
+## Tecnologias preferidas
+    HTML
+    CSS
+    JS
+    PHP
+
+## Tecnologias que pretendo dominar (Frameworks)
+    NodeJs
+    Angular
+    Vue
+    Laravel
